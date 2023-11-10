@@ -2,7 +2,7 @@
 
 #### Roles
 * 🔭 Postdoctoral researcher at the [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl/en/) (CAMK PAN)
-* ⭐ Astronomer interested in binary stars, fundamental stellar astrophysics, exoplanets, and interstellar reddening
+* ⭐ Astronomer interested in binary stars, precision stellar astrophysics, exoplanets, and interstellar reddening
 * ✨ Contributer to the [Araucaria](https://araucaria.camk.edu.pl/) project, [Observatory Cerro Armazones](https://araucaria.camk.edu.pl/index.php/observatory-cerro-armazones/) and [PLATO mission](https://warwick.ac.uk/fac/sci/physics/research/astro/plato-science/research/researchareas/stellar/wp125500/).
 * 🌡️ Developer and maintainer of [teb](https://github.com/nmiller95/teb), a code for measuring accurate fundamental effective temperatures for binary stars
 
