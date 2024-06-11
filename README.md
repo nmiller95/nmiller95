@@ -1,9 +1,9 @@
 ### Hi there, I'm Nikki 👋
 
 #### Roles
-* 🔭 Postdoctoral researcher at the [Nicolaus Copernicus Astronomical Center](https://camk.edu.pl/en/) (CAMK PAN)
-* ⭐ Astronomer interested in binary stars, precision stellar astrophysics, exoplanets, and interstellar reddening
-* ✨ Contributer to the [Araucaria](https://araucaria.camk.edu.pl/) project, [Cerro Murphy Observatory](https://araucaria.camk.edu.pl/index.php/observatory-cerro-murphy/) and [PLATO mission](https://warwick.ac.uk/fac/sci/physics/research/astro/plato-science/research/researchareas/stellar/wp125500/).
+* 🔭 Postdoctoral researcher at [Uppsala University, Sweden](https://uu.se)
+* ⭐ Astronomer interested in precision stellar astrophysics, binary stars, M-dwarf characterisation, exoplanets, and interstellar reddening
+* ✨ Contributor to [PLATO mission](https://platomission.com/), previous member of the [Araucaria](https://araucaria.camk.edu.pl/) project
 * 🌡️ Developer and maintainer of [teb](https://github.com/nmiller95/teb), a code for measuring accurate fundamental effective temperatures for binary stars
 
 #### Read more
